@@ -24,10 +24,7 @@ Report saved in: "/data/transactions_report.txt"
 
 ## How to Run
 1. Start Airflow
-2. Place DAG in `/dags`
-3. Ensure `/data` directory exists
-4. Configure SMTP for email
-5. Trigger DAG or wait for schedule
+2. Trigger DAG or wait for schedule
 
 ## Author
 Jana Habachy
