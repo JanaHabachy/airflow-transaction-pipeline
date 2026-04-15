@@ -1,5 +1,8 @@
 # Airflow Transaction Pipeline DAG
 
+<img width="1919" height="984" alt="image" src="https://github.com/user-attachments/assets/b50e6989-b604-4c51-b95c-d801f04c2b59" />
+
+
 ## Overview
 This project implements an Apache Airflow DAG that simulates a transaction processing pipeline running every 10 minutes.
 
